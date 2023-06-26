@@ -6,4 +6,4 @@ Then after locating where you are use, the **setwd() function to navigate to whe
 ## Coding example in R_studio:
 > getwd()
 [1] "C:/Users/NAME/OneDrive/Desktop"
-> nci_gene **file name <- read.csv("C:/Users/NAME/OneDrive/Desktop/rdata/geneData.csv") **File location
+> nci_gene **assigned name <- read.csv("C:/Users/NAME/OneDrive/Desktop/rdata/geneData.csv") **File location
